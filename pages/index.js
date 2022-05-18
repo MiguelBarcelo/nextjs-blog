@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hi, I'm Miguel Barceló. I'm a Software Engineer. You can contact me on
-          Linkedin
+          <a ref="www.linkedin.com/in/miguel-barcelo">LinkedIn</a>
         </p>
         <p>
           (This is a sample website - you'll be building a site like this on{' '}
